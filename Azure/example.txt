@@ -1,0 +1,15 @@
+Directory
+ |--- Speaker 1
+ |     |--- voice_sample
+ |     |--- voice_sample
+ |     |--- voice_sample
+ |
+ |--- Speaker 2
+ |     |--- voice_sample
+ |     |--- voice_sample
+ |     |--- voice_sample
+ | 
+ |--- Speaker 3
+ |     |--- voice_sample
+ |     |--- voice_sample
+ |     |--- voice_sample
