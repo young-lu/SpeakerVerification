@@ -1,4 +1,0 @@
-MS Azure profiles
-
-my key --> my id: beb49026b71748e797a0f5b8d1b2abe7 --> 4d4ea255-f00a-45c9-8ac1-353de0b2f859
-
